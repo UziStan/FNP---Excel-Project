@@ -1,6 +1,6 @@
-**Sales Analysis Dashboard – Excel Project
-**
-**Project Overview**  
+# **Sales Analysis Dashboard – Excel Project**  
+
+## **Project Overview**  
 This project presents a **Sales Analysis Dashboard** built in **Excel**, designed to provide key business insights into sales performance. The dashboard includes metrics such as **total revenue, top-selling products, regional performance, sales trends, and customer purchasing behavior** to support data-driven decision-making.  
 
 The project leverages **advanced Excel functionalities** to clean, model, and visualize data interactively, demonstrating how Excel can be used for business intelligence and reporting.  

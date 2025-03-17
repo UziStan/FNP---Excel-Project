@@ -38,7 +38,7 @@ The project leverages **advanced Excel functionalities** like Power Query Editor
 ---
 
 ## **Dataset**  
-The dataset used in this project consists of **sales transactions, product details, customer purchase behavior, and regional sales performance.** The data was cleaned and transformed using **Power Query**, then modeled with **Power Pivot** for efficient analysis.  
+The dataset used in this project consists of **customers record, product details, orders transaction table.** The data was cleaned and transformed using **Power Query**, then modeled with **Power Pivot** for efficient analysis.  
 
 ---
 
@@ -46,7 +46,7 @@ The dataset used in this project consists of **sales transactions, product detai
 If you found this project useful or have suggestions for improvement, feel free to reach out. This project showcases how Excel can be effectively used for analytics, reporting, and business intelligence.  
 
 **LinkedIn:** https://www.linkedin.com/in/uzoma-okonyia-89b71b201/  
-**GitHub:** [[Your GitHub Profile]](https://github.com/UziStan)  
+**GitHub:** [[[Your GitHub Profile]](https://github.com/UziStan)](https://github.com/UziStan/FNP---Excel-Project/tree/Project)  
 
 If you find this repository helpful, consider giving it a star.  
 

@@ -45,7 +45,7 @@ The dataset used in this project consists of **sales transactions, product detai
 ## **Connect and Collaborate**  
 If you found this project useful or have suggestions for improvement, feel free to reach out. This project showcases how Excel can be effectively used for analytics, reporting, and business intelligence.  
 
-**LinkedIn:** [Your LinkedIn Profile]  
+**LinkedIn:** https://www.linkedin.com/in/uzoma-okonyia-89b71b201/  
 **GitHub:** [Your GitHub Profile]  
 
 If you find this repository helpful, consider giving it a star.  
